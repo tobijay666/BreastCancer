@@ -1,0 +1,7 @@
+.venv
+
+King Abdul Dataset.zip
+King Abdul Dataset/
+King Abdul Dataset/*
+*.h5
+*.pth
